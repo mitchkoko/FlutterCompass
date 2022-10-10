@@ -1,16 +1,5 @@
-# compassapp
+# COMPASS APP x FLUTTER
 
-A new Flutter project.
+Watch tutorial here: https://youtu.be/hjVkrAaonWI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![10EA8B40-FF32-4D55-8C8E-7D744DFDC764](https://user-images.githubusercontent.com/29016489/194893712-9a4ff637-c81d-47ca-92ab-678080cd53de.JPG)
